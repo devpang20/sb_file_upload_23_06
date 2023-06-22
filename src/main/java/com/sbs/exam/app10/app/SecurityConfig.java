@@ -1,4 +1,4 @@
-package com.sbs.exam.app10.app.base;
+package com.sbs.exam.app10.app;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
