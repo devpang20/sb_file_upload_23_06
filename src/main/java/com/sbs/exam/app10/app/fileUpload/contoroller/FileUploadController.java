@@ -25,7 +25,7 @@ public class FileUploadController {
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
-
+s
         return "업로드 완료!";
     }
 }
